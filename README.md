@@ -1,5 +1,10 @@
 🚀 JavaScript Advanced: The Master Guide
+
+
 1st Year, 2nd Sem Revision Notes
+
+
+
 Welcome to the ultimate repository for mastering Advanced JavaScript. This project is a curated collection of revision notes and code examples focusing on modern ES6+ syntax, functional programming patterns, and core engine concepts like closures and HOFs.
 
 📋 Table of Contents
